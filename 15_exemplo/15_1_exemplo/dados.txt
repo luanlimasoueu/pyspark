@@ -1,0 +1,4 @@
+nome,idade,cidade
+Alice,30,Nova Iorque
+Bob,25,San Francisco
+Carlos,28,Rio de Janeiro
