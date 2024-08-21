@@ -1,0 +1,11 @@
+https://medium.com/@akhilasaineni7/exploring-sparkcontext-and-sparksession-8369e60f658e
+
+https://medium.com/@ankitjuneja/rdd-vs-dataframe-3c0d3a359190
+
+https://medium.com/@akhilasaineni7/exploring-sparkcontext-and-sparksession-8369e60f658e
+
+https://github.com/datyrlab/apache-spark/blob/master/03-import-data-csv.py
+
+https://sparkbyexamples.com/pyspark/pyspark-withcolumn/#google_vignette
+
+https://www.machinelearningplus.com/pyspark/pyspark-withcolumn/#google_vignette
